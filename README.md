@@ -1,4 +1,4 @@
-### Hello
+# Hello
 
 ## NoteBlock+
 音ブロックの音階が確認できるようになります。
