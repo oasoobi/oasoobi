@@ -6,7 +6,7 @@
 >  
 > 音ブロックの音階が確認できるようになります。
 >   
-> [ダウンロード](https://oasoobi.net/tools/noteblockplus)
+> [ダウンロード](https://oasoobi.net/downloads/noteblockplus)
 
 > - SkinPackGenerator
 >  
