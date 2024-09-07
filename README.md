@@ -4,7 +4,7 @@
 
 > - NoteBlock+
 >  
-> 音ブロックの音階が確認できるようになります。
+> 音ブロックの音階が確認できるようになるアドオンです。
 >   
 > [ダウンロード](https://oasoobi.net/downloads/noteblockplus)
 
